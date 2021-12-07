@@ -75,7 +75,6 @@ namespace PowiedzmyZeGra
                 }
                 Console.ResetColor();
             }
-            Console.ForegroundColor = ConsoleColor.Cyan;
             Console.ReadKey();
         }
     }
