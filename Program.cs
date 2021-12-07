@@ -76,8 +76,6 @@ namespace PowiedzmyZeGra
                 Console.ResetColor();
             }
             Console.ForegroundColor = ConsoleColor.Cyan;
-            Console.WriteLine("\nWitaj "+imie+", twoja historia zaczyna się w małej karczmie na pograniczu Zadupia " +
-                "\na Wypizgarzem. Dwiema zwaśnionymi królestwami");
             Console.ReadKey();
         }
     }
